@@ -20,6 +20,7 @@ body{
     font-family: "Figtree", sans-serif;    
     line-height: 1.5rem;
     letter-spacing: 0;
+    color:hsl(0, 0%, 7%);
 }
 
 mark{
@@ -28,6 +29,20 @@ mark{
     padding: 0.25rem 0.75rem 0.25rem 0.75rem;
 } 
 
+a{
+   color: hsl(0, 0%, 7%);
+   text-decoration:none;
+}
+
+a:hover{
+   color: hsl(47, 88%, 63%);
+   text-decoration:none;
+ }
+
+a:visited{
+    color: hsl(0, 0%, 7%);
+    text-decoration:none;
+ }
 #container{
     display: flex;
     align-items: center;
@@ -48,7 +63,7 @@ mark{
 .text1{
     font-size:1.5rem;
     font-weight:800;
-    color:hsl(0, 0%, 7%);
+    
 }
 
 .text2{
