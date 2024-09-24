@@ -1,0 +1,1 @@
+My second website made from frontend developer, I had some issues with weird paragraph margins (top/bottom) in the content div so its not exacly 1:
